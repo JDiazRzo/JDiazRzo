@@ -1,4 +1,4 @@
-![Banner] (https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi,%20I'm%20JDiazRzo%20&section=header&reversal=true&desc=Software%20Engineer%20|%20Software%20Developer&textBg=false&fontSize=70&descAlignY=64&descSize=31&fontAlignY=37)
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f1318,100:1c3a45&text=Hi,%20I%27m%20JDiazRzo&section=header&reversal=true&desc=Software%20Engineer%20|%20Software%20Developer&fontSize=70&descSize=30&fontAlignY=35&descAlignY=70)
 
 ### 🚀 Tecnologías
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
