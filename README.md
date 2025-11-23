@@ -8,6 +8,7 @@
 
 ### 📊 Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=JDiazRzo&show_icons=true&theme=tokyonight)
+### 🧩 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDiazRzo&layout=compact&theme=tokyonight)
 
 ### 📬 Contact me
