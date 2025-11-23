@@ -31,4 +31,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/jobs/](https://www.linkedin.com/in/jeronimo-diaz-rozo-a836b2312/))
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diazjeronimo70@gmail.com)
 
+---
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Thank%20you%20for%20visiting&section=footer&reversal=true&textBg=false&fontSize=50&descAlignY=64&descSize=31&fontAlignY=68&fontColor=FFFFFF)
