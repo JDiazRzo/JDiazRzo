@@ -1,5 +1,4 @@
-# 👋 Hola, soy Jerónimo Díaz
-Desarrollador web enfocado en React, interfaces limpias y proyectos curiosos como reproductores de música.
+![Banner] (https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi,%20I'm%20JDiazRzo%20&section=header&reversal=true&desc=Software%20Engineer%20|%20Software%20Developer&textBg=false&fontSize=70&descAlignY=64&descSize=31&fontAlignY=37)
 
 ### 🚀 Tecnologías
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
