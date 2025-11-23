@@ -10,20 +10,20 @@ Desarrollador web enfocado en React, interfaces limpias y proyectos curiosos com
 
 
 ### 📊 Estadísticas de GitHub
-![Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=JDiazRzo&show_icons=true&theme=tokyonight)
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDiazRzo&layout=compact&theme=tokyonight)
 
 
 ![Welcome](https://i.imgur.com/dIOtXQ0.png)
 
 
-![snake](https://github.com/TU_USUARIO/TU_USUARIO/blob/output/github-contribution-grid-snake.svg)
+![snake](https://github.com/JDiazRzo/JDiazRzo/blob/output/github-contribution-grid-snake.svg)
 
 
 ### 📬 Contáctame
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/jobs/))]
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diazjeronimo70@gmail.com)
 
