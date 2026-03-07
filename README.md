@@ -1,4 +1,3 @@
-[![Banner](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi,%20I'm%20JDiazRzo%20&section=header&reversal=true&desc=Junior%20Full%20Stack%20Developer%20|%20React%20%26%20Node.js&textBg=false&fontSize=70&descAlignY=64&descSize=31&fontAlignY=37&fontColor=FFFFFF)](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20I'm%20JdiazRzo&desc=Software%20Engineer%20%20|%20Full%20Stack%20Junior&descAlign=60&fontAlignY=38)
 
 ---
 ### 🚀 Skills
