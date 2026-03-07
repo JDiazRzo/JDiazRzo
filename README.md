@@ -2,10 +2,10 @@
 
 ---
 ### ♾️ Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=JDiazRzo&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![Stats](https://streak-stats.demolab.com?user=JDiazRzo&theme=tokyonight)
 
 ### ♾️ Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDiazRzo&layout=compact&theme=tokyonight&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDiazRzo&layout=compact&theme=tokyonight&langs_count=6)
 
 ---
 ### ♾️ Stack
