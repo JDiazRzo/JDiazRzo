@@ -1,6 +1,7 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20I'm%20JDiazRzo&desc=Software%20Engineer%20|%20Full%20Stack%20Junior&fontAlignY=39)
 
 ---
+### ♾️ Stack
 **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
