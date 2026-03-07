@@ -1,7 +1,14 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20I'm%20JdiazRzo&desc=Software%20Engineer%20%20|%20Full%20Stack%20Junior&descAlign=60&fontAlignY=38&animation=fadeIn)
 
 ---
-### ♾️ Skills
+### ♾️ Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=JDiazRzo&show_icons=true&theme=tokyonight&cache_seconds=86400)
+
+### ♾️ Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDiazRzo&layout=compact&theme=tokyonight&cache_seconds=86400)
+
+---
+### ♾️ Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
@@ -20,6 +27,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
 ![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
+
+---
+### ♾️ Portfolio
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-url-de-portfolio.vercel.app)
 
 ---
 ### ♾️ Contact me
