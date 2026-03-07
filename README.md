@@ -1,5 +1,7 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20I'm%20JDiazRzo&desc=Software%20Engineer%20|%20Full%20Stack%20Junior&fontAlignY=39)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70202&random=true&width=435&lines=Interested+in+Machine+Learning;Full+Stack+Junior+developer+in+progress)](https://git.io/typing-svg)
+
 ---
 ### ♾️ Stack
 **Frontend**
