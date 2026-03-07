@@ -1,6 +1,8 @@
+<div align="center">
+
 ![Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20I'm%20JDiazRzo&desc=Software%20Engineer%20|%20Full%20Stack%20Junior&fontAlignY=39)
 
-<div align="center">
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B6F7&random=true&width=435&lines=Interested+in+Machine+Learning;Full+Stack+Junior+Developer)](https://git.io/typing-svg)
 
@@ -50,6 +52,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeronimo-diaz-rozo-a836b2312/?locale=es)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diazjeronimo70@gmail.com)
 
-</div>
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Thank%20you%20for%20visiting&section=footer&reversal=true&textBg=false&fontSize=50&descAlignY=64&descSize=31&fontAlignY=68&fontColor=FFFFFF)
+</div>
