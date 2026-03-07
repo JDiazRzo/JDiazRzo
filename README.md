@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20I'm%20JdiazRzo&desc=Software%20Engineer%20%20|%20Full%20Stack%20Junior&descAlign=60&fontAlignY=38&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20I'm%20JDiazRzo&desc=Software%20Engineer%20|%20Full%20Stack%20Junior&fontAlignY=39)
 
 ---
 **Frontend**
