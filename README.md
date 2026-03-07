@@ -22,14 +22,8 @@
 ![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
 
 ---
-### 📊 Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=JDiazRzo&show_icons=true&theme=tokyonight)
-### 🧩 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDiazRzo&layout=compact&theme=tokyonight)
-
----
 ### 📬 Contact me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeronimo-diaz-rozo-a836b2312/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeronimo-diaz-rozo-a836b2312/?locale=es)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diazjeronimo70@gmail.com)
 
 ---
