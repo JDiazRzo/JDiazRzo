@@ -43,7 +43,7 @@
 
 ### ♾️ Portfolio
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]([https://tu-url-de-portfolio.vercel.app](https://portfolio-psi-lime-88.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]([https://portfolio-psi-lime-88.vercel.app/])
 
 ---
 
